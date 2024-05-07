@@ -10,11 +10,18 @@ This app uses Flutter, Dart language and Firebase's realtime data base and authe
 This was created for coding minds flutter mobile development bootstrap
 
 requirements:
-The app idea can be anything;
+The app idea can be anything:
+
 - schedule planner app
-The app should have at least 4-5 screens based on the functions needed;
+  
+The app should have at least 4-5 screens based on the functions needed:
+
 - has 5 screens (home, login, signup, add new schedule, and settings)
-The app must be using Firebase Authentication;
+  
+The app must be using Firebase Authentication:
+
 - uses firebase authentication in sign up and login before allowing user access
-The app must be using Firebase Database;
+  
+The app must be using Firebase Database:
+
 - stores user's data to the account associated and created in the database
