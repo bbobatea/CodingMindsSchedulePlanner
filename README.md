@@ -10,6 +10,7 @@ This app uses Flutter, Dart language and Firebase's realtime data base and authe
 This was created for coding minds flutter mobile development bootstrap
 
 requirements:
+
 The app idea can be anything:
 
 - schedule planner app
